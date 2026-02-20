@@ -1,12 +1,12 @@
-# Hi, I'm Jason Gonzalez
+# 👋 Hi, I'm Jason Gonzalez
 
 Senior Frontend Developer with 7+ years of experience building scalable, accessible, and high-performance web applications using React and Angular.
 
-Heredia, Costa Rica  
-Experience working with distributed teams across time zones  
-Focused on clean architecture, performance optimization, and WCAG accessibility  
+📍 Heredia, Costa Rica  
+🌎 Experience working with distributed teams across time zones  
+🎯 Focused on clean architecture, performance optimization, and WCAG accessibility  
 
-## About Me
+## 🚀 About Me
 
 I specialize in designing and developing production-grade frontend applications in high-compliance environments such as banking and enterprise platforms.
 
@@ -16,28 +16,28 @@ I enjoy:
 - Collaborating closely with UX, backend, and product teams
 - Delivering accessible interfaces aligned with WCAG standards
 
-## Featured Projects
+## 💻 Featured Projects
 
 ### Negozia360 – Sales Module (Proof of Concept)
 
 A frontend architecture proof of concept simulating a real-world sales workflow.  
 Designed to demonstrate modular structure, component reusability, and maintainable state management.
 
-Key highlights:
+**Key highlights:**
 - Scalable component architecture
 - Clear separation of concerns
 - Clean and maintainable TypeScript structure
 - Production-oriented folder organization
 
-Tech stack: React, TypeScript
+**Tech stack:** React, TypeScript
 
-Live Demo:  
+🔗 Live Demo  
 https://jasongonzalezdeveloper.github.io/negozia360-poc/sale/
 
-Repository:  
+📂 Repository  
 https://github.com/jasongonzalezdeveloper/negozia360-poc
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Autodesk (via Net2Source) – Software Engineer  
 Tech: React, TypeScript, Jest, Cypress, SASS, WCAG  
@@ -61,42 +61,42 @@ Tech: React, Java, Spring Boot, Backbone
 - Designed internal management tools for employee operations  
 - Optimized complex SQL queries, improving system efficiency  
 
-## Technical Skills
+## 🧠 Technical Skills
 
-Frontend  
+**Frontend**  
 React, Angular, TypeScript, JavaScript (ES6+), Next.js, Tailwind, Bootstrap, SASS, Responsive Design
 
-Architecture  
+**Architecture**  
 Microfrontends, Design Patterns (Singleton, Factory), Web Accessibility (WCAG)
 
-Testing  
+**Testing**  
 Jest, Cypress, Selenium
 
-Backend  
+**Backend**  
 Java (Spring), REST APIs, Node.js (Basic)
 
-Cloud and DevOps  
+**Cloud and DevOps**  
 Azure DevOps, AWS (S3, CloudFront), Docker, Kubernetes, CI/CD, GitHub
 
-Databases  
+**Databases**  
 PostgreSQL, MySQL, SQL Server
 
-## Education
+## 🎓 Education
 
 Bachelor’s Degree in Information Systems Engineering  
 Universidad Nacional de Costa Rica (2015–2018)
 
-## Certifications
+## 📜 Certifications
 
 Node.js and Express Essentials – IBM (Coursera)  
 EF SET English Certificate – B2 Upper Intermediate  
 
-## Languages
+## 🌐 Languages
 
 Spanish (Native)  
 English (B2 – Upper Intermediate)
 
-## Contact
+## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/jason-gonzalez-garcia/  
 Email: jason.gonzalez.developer@gmail.com
