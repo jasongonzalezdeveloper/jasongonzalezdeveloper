@@ -37,6 +37,25 @@ https://jasongonzalezdeveloper.github.io/negozia360-poc/sale/
 📂 Repository  
 https://github.com/jasongonzalezdeveloper/negozia360-poc
 
+
+### Math Jenga – Interactive Logic Game
+
+An interactive browser-based game inspired by Jenga mechanics, focused on matrix manipulation, rotation logic, and dynamic UI rendering.
+
+Designed to demonstrate problem-solving skills, algorithmic thinking, and complex state handling in React.
+
+**Key highlights:**
+- Matrix-based block positioning logic
+- Dynamic rotation and re-rendering
+- State-driven UI updates
+- Interactive and responsive interface
+
+🔗 Live Demo  
+https://jasongonzalezdeveloper.github.io/math_jenga/
+
+📂 Repository  
+https://github.com/jasongonzalezdeveloper/math_jenga
+
 ## 💼 Professional Experience
 
 ### Autodesk (via Net2Source) – Software Engineer  
