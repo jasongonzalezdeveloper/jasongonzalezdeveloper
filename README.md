@@ -1,121 +1,33 @@
-# 👋 Hi, I'm Jason Gonzalez
+# 👨‍💻 Jason Gonzalez Garcia
+### Senior Frontend Engineer | Specializing in Scalable Web Architectures
 
-Senior Frontend Developer with 7+ years of experience building scalable, accessible, and high-performance web applications using React and Angular.
+Passionate about bridging the gap between complex engineering and seamless user experiences. With over **7 years of experience**, I focus on building high-performance, accessible, and business-aligned web applications.
 
-📍 Heredia, Costa Rica  
-🌎 Experience working with distributed teams across time zones  
-🎯 Focused on clean architecture, performance optimization, and WCAG accessibility  
+---
 
-## 🚀 About Me
+## 🚀 Professional Highlights
 
-I specialize in designing and developing production-grade frontend applications in high-compliance environments such as banking and enterprise platforms.
+### **Autodesk** | *Software Engineer* (Oct 2025 – Jan 2026)
+* **Impact:** Improved frontend performance by **~10%** through rendering and bundle optimizations.
+* **System Design:** Developed reusable, **WCAG-compliant** React components for an enterprise design system used across multiple global applications.
+* **Quality:** Maintained high standards through **Jest and Cypress** testing and structured release workflows.
 
-I enjoy:
-- Building scalable and reusable component architectures
-- Improving performance and maintainability
-- Collaborating closely with UX, backend, and product teams
-- Delivering accessible interfaces aligned with WCAG standards
+### **Loyalty Science Group** | *Mid Senior Frontend Developer* (Feb 2021 – Apr 2025)
+* **Banking Scale:** Delivered scalable **Angular solutions** for a large-scale digital banking platform.
+* **Performance:** Reduced static content response times by **30%**, directly enhancing user experience.
+* **Compliance:** Collaborated with product and backend teams to deliver secure **API integrations** (OAuth) in high-compliance environments.
 
-## 💻 Featured Projects
+### **Eprom** | *Full-Stack Developer* (Jan 2019 – Feb 2021)
+* **Operational Efficiency:** Designed internal tools for managing employees and projects, streamlining administrative processes.
+* **Database Optimization:** Optimized **SQL queries** and backend integrations to improve overall system efficiency.
 
-### Negozia360 – Sales Module (Proof of Concept)
+---
 
-A frontend architecture proof of concept simulating a real-world sales workflow.  
-Designed to demonstrate modular structure, component reusability, and maintainable state management.
+## 🛠️ Technical Ecosystem
 
-**Key highlights:**
-- Scalable component architecture
-- Clear separation of concerns
-- Clean and maintainable TypeScript structure
-- Production-oriented folder organization
-
-**Tech stack:** React, TypeScript
-
-🔗 Live Demo  
-https://jasongonzalezdeveloper.github.io/negozia360-poc/sale/
-
-📂 Repository  
-https://github.com/jasongonzalezdeveloper/negozia360-poc
-
-
-### Math Jenga – Interactive Logic Game
-
-An interactive browser-based game inspired by Jenga mechanics, focused on matrix manipulation, rotation logic, and dynamic UI rendering.
-
-Designed to demonstrate problem-solving skills, algorithmic thinking, and complex state handling in React.
-
-**Key highlights:**
-- Matrix-based block positioning logic
-- Dynamic rotation and re-rendering
-- State-driven UI updates
-- Interactive and responsive interface
-
-🔗 Live Demo  
-https://jasongonzalezdeveloper.github.io/math_jenga/
-
-📂 Repository  
-https://github.com/jasongonzalezdeveloper/math_jenga
-
-## 💼 Professional Experience
-
-### Autodesk (via Net2Source) – Software Engineer  
-Tech: React, TypeScript, Jest, Cypress, SASS, WCAG  
-
-- Developed reusable React components for Autodesk’s internal UX library used across multiple repositories  
-- Improved application performance by approximately 10 percent through rendering optimizations and refactoring  
-- Built accessible components compliant with WCAG standards  
-- Contributed to consistency across enterprise-level applications  
-
-### Loyalty Science Group – Mid Senior Frontend Developer  
-Tech: Angular, TypeScript, NgRx, RxJS, REST APIs, OAuth  
-
-- Led frontend migrations within a digital banking platform  
-- Delivered scalable production-grade applications in a high-compliance financial environment  
-- Reduced static content response times by 30 percent through performance optimization initiatives  
-- Collaborated with backend engineers and stakeholders from discovery to deployment  
-
-### Eprom – Full-Stack Developer  
-Tech: React, Java, Spring Boot, Backbone  
-
-- Designed internal management tools for employee operations  
-- Optimized complex SQL queries, improving system efficiency  
-
-## 🧠 Technical Skills
-
-**Frontend**  
-React, Angular, TypeScript, JavaScript (ES6+), Next.js, Tailwind, Bootstrap, SASS, Responsive Design
-
-**Architecture**  
-Microfrontends, Design Patterns (Singleton, Factory), Web Accessibility (WCAG)
-
-**Testing**  
-Jest, Cypress, Selenium
-
-**Backend**  
-Java (Spring), REST APIs, Node.js (Basic)
-
-**Cloud and DevOps**  
-Azure DevOps, AWS (S3, CloudFront), Docker, Kubernetes, CI/CD, GitHub
-
-**Databases**  
-PostgreSQL, MySQL, SQL Server
-
-## 🎓 Education
-
-Bachelor’s Degree in Information Systems Engineering  
-Universidad Nacional de Costa Rica (2015–2018)
-
-## 📜 Certifications
-
-Node.js and Express Essentials – IBM (Coursera)  
-EF SET English Certificate – B2 Upper Intermediate  
-
-## 🌐 Languages
-
-Spanish (Native)  
-English (B2 – Upper Intermediate)
-
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/jason-gonzalez-garcia/  
-Email: jason.gonzalez.developer@gmail.com
+| **Frontend & UX** | **Backend & Data** | **Testing & DevOps** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Tailwind](https://img
