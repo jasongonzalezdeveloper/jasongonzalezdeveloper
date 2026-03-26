@@ -42,7 +42,7 @@ An interactive browser-based game inspired by Jenga mechanics, focused on matrix
 * **Performance:** Improved frontend performance by **~10%** through rendering and bundle optimizations.
 * **Design Systems:** Built reusable, **WCAG-compliant** React components for an enterprise design system used across multiple product lines.
 
-### **Therapp** | *Frontend Developer, Freelance* (Jul 2025 – Oct 2025)
+### **Therapp** | *Frontend Developer, Freelance* (Apr 2025 – Oct 2025)
 * **Features:** Built and shipped end-to-end user flows including authentication, multi-step forms, and dashboards, integrating RESTful APIs in a small, fast-moving team.
 * **Architecture:** Developed reusable responsive components and structured navigation with Next.js routing, keeping a consistent pattern across the codebase.
 
